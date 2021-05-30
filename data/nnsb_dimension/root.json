@@ -1,1 +1,0 @@
-{"display":{"description":{"text":"This is Portal.","color":"gold"},"title":{"text":"新しい世界への出発","color":"gold"},"icon":{"item":"end_portal_frame","data":0},"background":"minecraft:textures/blocks/stone.png"},"criteria":{"changed_dimension":{"trigger":"minecraft:changed_dimension","conditions":{"from":"overworld"}}},"rewards":{},"requirements":[["changed_dimension"]]}
